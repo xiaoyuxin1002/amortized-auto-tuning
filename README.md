@@ -89,4 +89,12 @@ CosineAnnealingWarmRestarts | T_0<br>T_mult<br>Eta_min | *U*{2, 20}<br>*U*{1, 4}
 
 Please cite the following work if you find the AT2 method or the HyperRec database useful.
 ```
+@misc{xiao2021amortized,
+    title={Amortized Auto-Tuning: Cost-Efficient Transfer Optimization for Hyperparameter Recommendation},
+    author={Yuxin Xiao and Eric P. Xing and Willie Neiswanger},
+    year={2021},
+    eprint={2106.09179},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
 ```
