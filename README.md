@@ -28,7 +28,7 @@ The standard output of the training process and the training results will be sto
 HyperRec is a hyperparameter recommendation database for image classification tasks. \
 It consists of 27 unique image classification tasks and 150 distinct configurations sampled from a 16-dimensional nested hyperparameter space.
 
-Users can retrieve it <a href="https://drive.google.com/drive/folders/1DlGmiPkvjnYEc_XebTOkfPl0RAq4v1iG?usp=sharing">here</a>.
+Users can retrieve it <a href="https://drive.google.com/drive/folders/1M6SF-T0LJqLMuO-N_0dFSCGfnesqK5J3?usp=sharing">here</a>.
 
 ## Tasks
 
